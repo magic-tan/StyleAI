@@ -1,0 +1,5 @@
+{
+  "name": "StyleAI - 您的私人造型师",
+  "description": "一个智能时尚推荐平台，生成个性化穿搭灵感并通过 Gemini 2.5 Flash Image 进行视觉展示。",
+  "requestFramePermissions": []
+}
